@@ -12,7 +12,7 @@ A simple webpage with color markers designed using CSS.
 
 ## About The Webpage
 
-Another project created from a freeCodeCamp course. This course mostly focused on different ways to design a webpage with color (eg hexidecimal, hsl, rgb).
+Another project created from a freeCodeCamp course. This course mostly focused on different ways to design a webpage with color (e.g. hexidecimal, hsl, rgb).
 
 ---
 
